@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou Júlio Rodrigo</h1>
 <h3 align="center">Programador Backend</h3>
 
-- 🌱 Atualmente estou aprendendo **Java, Spring e Sqk**
+- 🌱 Atualmente estou aprendendo **Java, Spring e Sql**
 
 - 📫 Onde me encontrar **juliorodrigop19@gmail.com**
 
