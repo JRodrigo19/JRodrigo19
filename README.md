@@ -1,20 +1,57 @@
-<h1 align="center">Oi 👋, Eu sou Júlio Rodrigo</h1>
-<h3 align="center">Programador Backend</h3>
+# Hi there, I'm JRodrigo19 👋
 
-- 🌱 Atualmente estou aprendendo **Java, Spring, Sql, AWS**
+I'm currently transitioning my career to **Cybersecurity** and constantly improving my skills in the **Information Security** field.
 
-- 📫 Onde me encontrar **juliorodrigop19@gmail.com**
+## 🎯 Goals and Focus
+- Hands-on learning with **SIEM** tools, monitoring, detection, and incident response.
+- Build projects that simulate real-world security environments.
+- Strengthen skills in operating systems (Linux, Windows) and networking tools (pfSense, Wazuh).
 
-- 📄 Minhas experiências [https://www.linkedin.com/in/julio-rodrigo-ba21a7269/](https://www.linkedin.com/in/julio-rodrigo-ba21a7269/)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/julio-rodrigo-ba21a7269/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/julio-rodrigo-ba21a7269/" height="30" width="40" /></a>
-<a href="https://instagram.com/@rodripzrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@rodripzrs" height="30" width="40" /></a>
-</p>
+## 🔐 Featured Project
 
-## Languages and Tools
-<img align="center" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"> <img align="center" alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"> <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> <img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"> <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img align="center" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white"> </p>
+### SIEM Lab with Wazuh, pfSense, and Windows (VMware)
+- **Description**: A practical lab created during the **Wazuh Expert** course by **Green Club**.  
+- **Setup**:
+  - **pfSense** firewall
+  - **Wazuh Server** (Ubuntu Server)
+  - **Wazuh Agent** (Windows 11)
+- **Purpose**: Collect and centralize security events, configure alerts, and analyze logs.
+- **Full documentation** available in the repo: [wazuh-lab](https://github.com/JRodrigo19/Wazuh_Lab)
 
-## Card - Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JRodrigo19&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+---
+
+## 🛠️ Technologies and Tools
+
+| Category              | Tools & Technologies               |
+|-----------------------|------------------------------------|
+| SIEM / Monitoring     | Wazuh                              |
+| Firewall              | pfSense                            |
+| Operating Systems     | Ubuntu Server, Windows 11          |
+| Virtualization        | VMware Workstation                 |
+| Networking            | TCP/IP, DHCP, NAT, LAN Bridge      |
+
+---
+
+## 🌱 Learning Approach
+- Building hands-on labs to simulate enterprise environments.
+- Detailed documentation with screenshots and technical explanations.
+- Continuous learning through courses, communities, and challenges.
+
+---
+
+## 📫 How to Reach Me
+- LinkedIn: [Julio Rodrigo](https://www.linkedin.com/in/juliorodrigop/)
+- Email: juliorodrigop19@gmail.com
+
+---
+
+## 🚀 Next Steps
+- Add Linux agents to the Wazuh lab
+- Automate environment setup with Ansible or Terraform
+- Integrate other tools: **ELK**, **Suricata**, **TheHive/Cortex**
+
+---
+
+If you find value in this kind of work or want to exchange ideas about cybersecurity, feel free to connect!
